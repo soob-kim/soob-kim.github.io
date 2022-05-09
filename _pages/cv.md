@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "CV"
-permalink: /CV.pdf
+permalink: /cv/
 author_profile: true
-nav: true
 redirect_from:
   - /resume
 ---
 
-<object data="../CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Link to my CV](https://github.com/soob-kim/soob-kim.github.io/raw/master/CV.pdf)
