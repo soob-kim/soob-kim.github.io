@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, Seoul National University, 2020
+* B.A. in Sociology, Seoul National University, 2020
+* M.S. in Statistics, Seoul National University, 2022
+* Ph.D in Statistics, University of California, Davis
+
+Add CV as pdf file later..
 
 Work experience
 ======
