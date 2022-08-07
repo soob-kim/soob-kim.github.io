@@ -1,7 +1,7 @@
 ---
 title: 'Fellowship-KGSPSO'
 date: 2022-08-05
-permalink: /news/kgspso/
+permalink: /posts/2022/08/kgspso/
 tags:
   - fellowship
 ---
